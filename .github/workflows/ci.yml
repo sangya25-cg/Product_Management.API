@@ -39,4 +39,3 @@ jobs:
           script: |
             cd ~/Product_Management.API
             git pull origin main
-            dotnet build
